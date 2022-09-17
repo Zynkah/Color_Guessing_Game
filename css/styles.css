@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://images.creativemarket.com/0.1.0/ps/3490512/910/607/m1/fpnw/wm0/1-.jpg?1509295453&s=5748c5d27d83a3513533fbf90a08d5af&fmt=webp");
+    background-repeat: repeat;
+}
+
+h1 {
+    margin-top: 140px;
+    font: bold 90px cambria;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+button {
+    font: bold 28px cambria;
+    background: rgb(195, 100, 233);
+    border-radius: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 20px;
+    letter-spacing: 5px;
+}
+
+button:hover {
+    background-color: aqua;
+}
